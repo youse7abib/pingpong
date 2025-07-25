@@ -9,3 +9,26 @@ Playing the Game:
 Quitting the Game:
 ● Press 'Esc' key to exit the game and go back to DOS.
 ● Press 'p' key to pause the game and press again to conutine.
+
+
+Ping Pong  is a retro-style 2D table tennis game built entirely using Python’s Turtle graphics library. This game brings back the nostalgic feel of arcade ping pong with a clean, minimal interface and fun interactive features.
+Two Game Modes:
+Player vs Player
+Player vs Computer (AI) with adjustable difficulty (Easy, Medium, Hard)
+
+
+Score Tracking: Real-time scoring display for both players
+
+Dynamic Difficulty: Ball speed increases when the score reaches certain thresholds
+
+Interactive Menus: Start menu, restart, and return-to-main-menu functionality
+
+Pause & Resume: Players can pause the game and resume anytime
+
+Winning Condition: First to 15 points wins, with a celebratory message
+
+Sound Effects: Background music and sound on paddle and wall hits (using winsound)
+
+Fully Custom UI: Buttons drawn and managed using Turtle graphics
+
+Responsive Controls: Smooth keyboard controls for both paddles
